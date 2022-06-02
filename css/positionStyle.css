@@ -41,10 +41,19 @@
 
 .contentimage {
     float:left;
-    margin:10px 20px 5px 10px;
+    margin:10px 20px 5px 0px;
     width:500px
 }
 
 .youtubevideo {
     border: 20px solid black;
+}
+
+.tableaupost1 { 
+    width: 39%;
+}
+
+.tableaupost2 {
+   width:39%;
+   left:850px;
 }

@@ -1,0 +1,50 @@
+.posstyle {
+    position:absolute;
+    /*border: 5px solid black;*/
+    padding: 5px;
+}
+
+.titlepos {
+    left:10px;
+    right:10px;
+    top:10px;
+    height:95px;
+}
+
+.navpos {
+    top: 140px;
+    left:10px;
+    bottom: 100px;
+    width: 150px;
+}
+
+.contentpos {
+    top: 140px;
+    left: 200px;
+    bottom: 100px;
+    width: 1260px;
+}
+
+.imagepos {
+    top: 140px;
+    right: 10px;
+    bottom: 100px;
+    width: 150px;
+}
+
+.footerpos {
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    height: 55px;
+}
+
+.contentimage {
+    float:left;
+    margin:10px 20px 5px 10px;
+    width:500px
+}
+
+.youtubevideo {
+    border: 20px solid black;
+}
